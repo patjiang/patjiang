@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on De Novo Design of Proteins with Structure-Based Inference
-- 🌱 I’m currently learning Energy-based models and Langevin Dynamics
+- 🔭 I’m currently working on Structural protein design with Machine Learning models
+- 🌱 I’m currently learning about higher order data encoding methods and expressivity of models
 - 📫 How to reach me: phjiang@asu.edu or on LinkedIn
-- ⚡ Fun fact: I enjoy working with synthetic biology (wet lab) on the side.
+- ⚡ Fun fact: I enjoy working with synthetic biology (wet lab) for fun!
 
 
 ## 🌐 Socials:
