@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Structural protein design with Machine Learning models
-- 🌱 I’m currently learning about higher order data encoding methods and expressivity of models
+- 🔭 I’m currently working on Stealth
+- 🌱 I’m currently learning about high order graph representations and heuristic representations
 - 📫 How to reach me: phjiang@asu.edu or on LinkedIn
-- ⚡ Fun fact: I enjoy working with synthetic biology (wet lab) for fun!
+- ⚡ Fun fact: I enjoy working on synthetic biology education (wet lab) for fun!
 
 
 ## 🌐 Socials:
