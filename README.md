@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Stealth
-- 🌱 I’m currently learning about high order graph representations and novel heuristics in structural biology
+- 🔭 I’m currently working on developing biophysical interpretations for de novo design problems
+- 🌱 I’m currently learning about graph embedding methodologies and reduced representation spaces for soling graph isomorphism problems
 - 📫 How to reach me: phjiang@asu.edu or on LinkedIn
-- ⚡ Fun fact: I enjoy working on synthetic biology education (wet lab) for fun!
+- ⚡ Fun fact: I regularly volunteer with local elementary and middle schools to promote biology education initiatives.
 
 
 ## 🌐 Socials:
