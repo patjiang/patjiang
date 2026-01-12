@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I regularly volunteer with local elementary and middle schools to promote biology education initiatives.
 
 
-## Socials:
+## Socials (only one lol):
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phjiang) 
 
 # Tech Stack (Languages/Methodologies I only claim to have a novice experience with):
