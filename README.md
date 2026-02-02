@@ -4,7 +4,7 @@
 - 📫 How to reach me: phjiang@asu.edu or on LinkedIn
 - ⚡ Fun fact: I regularly volunteer with local elementary and middle schools to promote biology education initiatives.
 - Most of my development work is done locally, but whenever I publish (soon 🤞) it will be pushed here. Would love to chat about anything :)
-- If you're here from DIYbio, click ![here](https://github.com/patjiang/GithubProfile_Example) :)
+- If you're here from DIYbio, click [here](https://github.com/patjiang/GithubProfile_Example) :)
 
 
 ## Socials (only one lol):
