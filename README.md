@@ -1,6 +1,6 @@
 ## Welcome to my page.
 - 🔭 I’m currently working on developing biophysical interpretations for de novo design problems
-- 🌱 I’m currently learning about graph embedding methodologies and reduced representation spaces for soling graph isomorphism problems
+- 🌱 I’m currently learning about graph embedding methodologies and reduced representation spaces for solving graph isomorphism problems
 - 📫 How to reach me: phjiang@asu.edu or on LinkedIn
 - ⚡ Fun fact: I regularly volunteer with local elementary and middle schools to promote biology education initiatives.
 - Most of my development work is done locally, but whenever I publish (soon 🤞) it will be pushed here. Would love to chat about anything :)
